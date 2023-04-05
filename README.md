@@ -1,8 +1,6 @@
 
 
-The aim of the project:
-
-I built this project to practice my JS(ES6), react JS, and API knowledge. 
+The aim of the project is to provide the wheather and the attractions of the destination.
 
 To visit the project please click the URL 
 (https://raminkeshavarzi.github.io/Travelto.github.io/)
