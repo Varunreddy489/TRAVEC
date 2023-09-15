@@ -10,10 +10,9 @@ Technologies and Tools:
 
 1) HTML&CSS
 2) JavaScript (ES6)
-3) react JS
-5) Open Weather API
-6) Firebase Hosting 
-7) Responsive design
+3) Open Weather API
+4) Firebase Hosting 
+5) Responsive design
 
 
  
